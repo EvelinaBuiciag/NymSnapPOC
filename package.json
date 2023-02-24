@@ -58,7 +58,7 @@
     "@metamask/abi-utils": "^1.1.1",
     "@metamask/key-tree": "^6.1.0",
     "@metamask/snap-types": "^0.23.0",
-    "@metamask/snaps-browserify-plugin": "^0.27.1",
+    "@metamask/snaps-browserify-plugin": "^0.30.0",
     "@metamask/utils": "^3.4.1",
     "@nymproject/sdk": "^1.1.4"
   }
